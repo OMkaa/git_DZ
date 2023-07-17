@@ -29,8 +29,10 @@ switch(color){
         alert('можешь идти или ползти')
         break
     default:
-        alert('надо вводить цвета')
-        alert('red');
-        alert('yellow')
-        alert('green')
+        console.log('Надо вводить цвета');
+        console.log('Red  ','  Yellow  ','   Green')
+        // alert('надо вводить цвета')
+        // alert('red')
+        // alert('yellow')
+        // alert('green')
 }
