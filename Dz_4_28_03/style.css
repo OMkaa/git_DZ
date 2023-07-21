@@ -1,0 +1,52 @@
+
+
+
+
+.form {
+    width: 200px;
+    height: 495px;
+    border: 10px solid rgb(14, 9, 9);
+    background-color: #d6bfbf;
+    border-radius: 50px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.red {
+    width: 145px;
+    height: 145px;
+    border: 10px solid rgb(117, 114, 114);
+    border-radius: 50%;
+    margin-left: 15px;
+    background-color: red;
+
+}
+.yellow {
+    width: 145px;
+    height: 145px;
+    border: 10px solid rgb(117, 114, 114);
+    border-radius: 50%;
+    margin-left: 15px;
+    background-color: yellow;
+}
+.green {
+    width: 145px;
+    height: 145px;
+    border: 10px solid rgb(117, 114, 114);
+    border-radius: 50%;
+    margin-left: 15px;
+    background-color: green;
+}
+
+.click {
+    width: 300px;
+    height: 50px;
+    border-radius: 30px;
+    border: 3px solid rgb(1, 10, 19);
+ 
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
